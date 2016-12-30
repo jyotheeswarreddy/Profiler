@@ -5,6 +5,7 @@ namespace Profiler
 	{
 		public MyClass()
 		{
+			// Testing by J
 		}
 	}
 }
